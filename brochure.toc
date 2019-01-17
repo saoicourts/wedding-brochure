@@ -1,0 +1,21 @@
+\contentsline {section}{Events}{1}% 
+\contentsline {section}{Saturday Event Details}{4}% 
+\contentsline {subsection}{Saturday Dinner at Peddler Brewing}{4}% 
+\contentsline {section}{Sunday Event Details}{5}% 
+\contentsline {subsection}{Discovery Park Hike and Picnic Lunch}{5}% 
+\contentsline {subsection}{The Nisqually Room at Ivar's Salmon House}{6}% 
+\contentsline {section}{Monday Event Details}{7}% 
+\contentsline {subsection}{Brunch at }{7}% 
+\contentsline {subsection}{Wedding Celebration!}{7}% 
+\contentsline {section}{Things to Do and See in Seattle}{8}% 
+\contentsline {subsection}{Bites to Eat}{8}% 
+\contentsline {subsubsection}{\textit {Perch\'e No}}{8}% 
+\contentsline {subsubsection}{\textit {Mondello Ristorante Italiano}}{8}% 
+\contentsline {subsubsection}{Dumpling Tzar}{9}% 
+\contentsline {subsection}{The Caf\'e Life}{9}% 
+\contentsline {subsubsection}{Miro Tea}{9}% 
+\contentsline {subsection}{Bars and Nightlife}{9}% 
+\contentsline {subsubsection}{Pie Bar Ballard}{9}% 
+\contentsline {subsection}{Touristy Stuff}{10}% 
+\contentsline {subsubsection}{Pike Place Market}{10}% 
+\contentsline {subsubsection}{Smith Tower}{11}% 
