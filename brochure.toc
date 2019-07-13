@@ -11,20 +11,20 @@
 \contentsline {subsection}{Touristy Stuff}{8}{section*.12}
 \contentsline {subsubsection}{Pike Place Market}{8}{section*.13}
 \contentsline {subsubsection}{Smith Tower}{9}{section*.14}
-\contentsline {subsection}{Bites to Eat}{9}{section*.15}
-\contentsline {subsubsection}{\textit {Perch\'e No}}{9}{section*.16}
+\contentsline {subsection}{Bites to Eat}{10}{section*.15}
+\contentsline {subsubsection}{\textit {Perch\'e No}}{10}{section*.16}
 \contentsline {subsubsection}{\textit {Mondello Ristorante Italiano}}{10}{section*.17}
-\contentsline {subsubsection}{Pink Salt}{10}{section*.18}
-\contentsline {subsubsection}{Pel'Meni Dumpling Tzar}{10}{section*.19}
-\contentsline {subsection}{The Caf\'e Life}{11}{section*.20}
-\contentsline {subsubsection}{Miro Tea}{11}{section*.21}
-\contentsline {subsubsection}{La Marzocco}{11}{section*.22}
+\contentsline {subsubsection}{Pink Salt}{11}{section*.18}
+\contentsline {subsubsection}{Pel'Meni Dumpling Tzar}{11}{section*.19}
+\contentsline {subsection}{The Caf\'e Life}{12}{section*.20}
+\contentsline {subsubsection}{Miro Tea}{12}{section*.21}
+\contentsline {subsubsection}{La Marzocco}{12}{section*.22}
 \contentsline {subsubsection}{Storyville Coffee}{12}{section*.23}
-\contentsline {subsubsection}{Milstead Coffee}{12}{section*.24}
-\contentsline {subsubsection}{Espresso Vivace}{12}{section*.25}
-\contentsline {subsection}{Bars and Nightlife}{12}{section*.26}
-\contentsline {subsubsection}{Pie Bar Ballard}{13}{section*.27}
-\contentsline {subsubsection}{Garage Capitol Hill}{13}{section*.28}
-\contentsline {subsubsection}{Deep Dive}{13}{section*.29}
-\contentsline {subsubsection}{Bitterroot BBQ}{13}{section*.30}
-\contentsline {subsubsection}{The Noble Fir}{13}{section*.31}
+\contentsline {subsubsection}{Milstead Coffee}{13}{section*.24}
+\contentsline {subsubsection}{Espresso Vivace}{13}{section*.25}
+\contentsline {subsection}{Bars and Nightlife}{14}{section*.26}
+\contentsline {subsubsection}{Pie Bar Ballard}{14}{section*.27}
+\contentsline {subsubsection}{Garage Capitol Hill}{14}{section*.28}
+\contentsline {subsubsection}{Deep Dive}{14}{section*.29}
+\contentsline {subsubsection}{Bitterroot BBQ}{14}{section*.30}
+\contentsline {subsubsection}{The Noble Fir}{14}{section*.31}

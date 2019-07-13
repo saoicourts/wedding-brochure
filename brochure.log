@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.6)  13 JUL 2019 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.6)  13 JUL 2019 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -597,53 +597,55 @@ File: smith.jpg Graphic file (type jpg)
 <use smith.jpg>
 Package pdftex.def Info: smith.jpg  used on input line 225.
 (pdftex.def)             Requested size: 183.85281pt x 122.492pt.
-LaTeX Font Info:    Font shape `OT1/pag/bx/it' in size <12> not available
-(Font)              Font shape `OT1/pag/b/it' tried instead on input line 241.
-LaTeX Font Info:    Font shape `OT1/pag/b/it' in size <12> not available
-(Font)              Font shape `OT1/pag/db/it' tried instead on input line 241.
-LaTeX Font Info:    Font shape `OT1/pag/db/it' in size <12> not available
-(Font)              Font shape `OT1/pag/db/sl' tried instead on input line 241.
  [9 </home/nico/Documents/Wedding-Brochure/smith.jpg>]
-Overfull \hbox (5.31017pt too wide) in paragraph at lines 280--283
+LaTeX Font Info:    Font shape `OT1/pag/bx/it' in size <12> not available
+(Font)              Font shape `OT1/pag/b/it' tried instead on input line 242.
+LaTeX Font Info:    Font shape `OT1/pag/b/it' in size <12> not available
+(Font)              Font shape `OT1/pag/db/it' tried instead on input line 242.
+LaTeX Font Info:    Font shape `OT1/pag/db/it' in size <12> not available
+(Font)              Font shape `OT1/pag/db/sl' tried instead on input line 242.
+ [10]
+Overfull \hbox (5.31017pt too wide) in paragraph at lines 282--285
 \OT1/pag/m/n/12 This place is a surprise-- in-ex-pen-sive dumplings with de-li-cious choices
  []
 
-[10] [11]
-Overfull \hbox (4.25699pt too wide) in paragraph at lines 314--315
+[11]
+Overfull \hbox (4.25699pt too wide) in paragraph at lines 318--319
 \OT1/pag/m/n/12 Allison's fa-vorite cof-fee place, they have home-made baked goods,
  []
 
+[12]
 Missing character: There is no â in font pagk7t!
 Missing character: There is no € in font pagk7t!
 Missing character: There is no ™ in font pagk7t!
-
-Overfull \hbox (10.24155pt too wide) in paragraph at lines 340--343
+ [13]
+Overfull \hbox (10.24155pt too wide) in paragraph at lines 345--348
 []\OT1/pag/m/n/12 As you prob-a-bly know, Al-li-son can't have gluten and Nico doesn't
  []
 
-[12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 358.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 358.
+[14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 363.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 363.
  (/home/nico/Documents/Wedding-Brochure/brochure.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 358.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 358.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 363.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 363.
 Package rerunfilecheck Info: File `brochure.out' has not changed.
 (rerunfilecheck)             Checksum: CD221ACB5F24AC2A5F484E2BDC63E85B;1917.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 358.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 363.
  ) 
 Here is how much of TeX's memory you used:
- 15861 strings out of 494923
- 301026 string characters out of 6180743
- 360398 words of memory out of 5000000
+ 15862 strings out of 494923
+ 301033 string characters out of 6180743
+ 360399 words of memory out of 5000000
  18862 multiletter control sequences out of 15000+600000
  22192 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,6n,54p,468b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagdo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagko8a.pfb>
-Output written on /home/nico/Documents/Wedding-Brochure/brochure.pdf (14 pages, 6338645 bytes).
+Output written on /home/nico/Documents/Wedding-Brochure/brochure.pdf (15 pages, 6338728 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 500000)
  293 words of extra memory for PDF output out of 10000 (max. 10000000)
 
