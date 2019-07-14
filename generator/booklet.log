@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.6)  13 JUL 2019 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.7.6)  14 JUL 2019 13:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -165,230 +165,250 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
  (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ))
-<../brochure.pdf, id=1, 361.35pt x 505.89pt>
+<../brochure.pdf, id=1, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf>
-Package pdftex.def Info: ../brochure.pdf  used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf  used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf>
-Package pdftex.def Info: ../brochure.pdf  used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-<../brochure.pdf, id=4, page=1, 361.35pt x 505.89pt>
+Package pdftex.def Info: ../brochure.pdf  used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=4, page=1, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-<../brochure.pdf, id=5, page=8, 361.35pt x 505.89pt>
+Package pdftex.def Info: ../brochure.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=5, page=16, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 8>
-Package pdftex.def Info: ../brochure.pdf , page8 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 16>
+Package pdftex.def Info: ../brochure.pdf , page16 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 8>
-Package pdftex.def Info: ../brochure.pdf , page8 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 16>
+Package pdftex.def Info: ../brochure.pdf , page16 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 8>
-Package pdftex.def Info: ../brochure.pdf , page8 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 16>
+Package pdftex.def Info: ../brochure.pdf , page16 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
  [1
 
  <../brochure.pdf> <../brochure.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
-<../brochure.pdf, id=25, page=2, 361.35pt x 505.89pt>
+<../brochure.pdf, id=31, page=2, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 2>
-Package pdftex.def Info: ../brochure.pdf , page2 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page2 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 2>
-Package pdftex.def Info: ../brochure.pdf , page2 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-<../brochure.pdf, id=26, page=7, 361.35pt x 505.89pt>
+Package pdftex.def Info: ../brochure.pdf , page2 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=32, page=15, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 7>
-Package pdftex.def Info: ../brochure.pdf , page7 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 15>
+Package pdftex.def Info: ../brochure.pdf , page15 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 7>
-Package pdftex.def Info: ../brochure.pdf , page7 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 15>
+Package pdftex.def Info: ../brochure.pdf , page15 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 2>
-Package pdftex.def Info: ../brochure.pdf , page2 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page2 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 7>
-Package pdftex.def Info: ../brochure.pdf , page7 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 15>
+Package pdftex.def Info: ../brochure.pdf , page15 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
  [2 <../brochure.pdf> <../brochure.pdf>]
-<../brochure.pdf, id=35, page=3, 361.35pt x 505.89pt>
+<../brochure.pdf, id=41, page=3, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 3>
-Package pdftex.def Info: ../brochure.pdf , page3 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page3 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 3>
-Package pdftex.def Info: ../brochure.pdf , page3 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-<../brochure.pdf, id=36, page=6, 361.35pt x 505.89pt>
+Package pdftex.def Info: ../brochure.pdf , page3 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=42, page=14, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 6>
-Package pdftex.def Info: ../brochure.pdf , page6 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 14>
+Package pdftex.def Info: ../brochure.pdf , page14 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 6>
-Package pdftex.def Info: ../brochure.pdf , page6 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 14>
+Package pdftex.def Info: ../brochure.pdf , page14 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 3>
-Package pdftex.def Info: ../brochure.pdf , page3 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page3 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 6>
-Package pdftex.def Info: ../brochure.pdf , page6 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 14>
+Package pdftex.def Info: ../brochure.pdf , page14 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
  [3 <../brochure.pdf> <../brochure.pdf>]
-<../brochure.pdf, id=49, page=4, 361.35pt x 505.89pt>
+<../brochure.pdf, id=51, page=4, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 4>
-Package pdftex.def Info: ../brochure.pdf , page4 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page4 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 4>
-Package pdftex.def Info: ../brochure.pdf , page4 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-<../brochure.pdf, id=50, page=5, 361.35pt x 505.89pt>
+Package pdftex.def Info: ../brochure.pdf , page4 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=52, page=13, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 5>
-Package pdftex.def Info: ../brochure.pdf , page5 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 13>
+Package pdftex.def Info: ../brochure.pdf , page13 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 5>
-Package pdftex.def Info: ../brochure.pdf , page5 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 13>
+Package pdftex.def Info: ../brochure.pdf , page13 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 4>
-Package pdftex.def Info: ../brochure.pdf , page4 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page4 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 5>
-Package pdftex.def Info: ../brochure.pdf , page5 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 13>
+Package pdftex.def Info: ../brochure.pdf , page13 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
  [4 <../brochure.pdf> <../brochure.pdf>]
-<../brochure.pdf, id=59, page=9, 361.35pt x 505.89pt>
+<../brochure.pdf, id=59, page=5, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 9>
-Package pdftex.def Info: ../brochure.pdf , page9 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 5>
+Package pdftex.def Info: ../brochure.pdf , page5 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 9>
-Package pdftex.def Info: ../brochure.pdf , page9 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 9>
-Package pdftex.def Info: ../brochure.pdf , page9 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
- [5 <../brochure.pdf>]
-<../brochure.pdf, id=68, page=10, 361.35pt x 505.89pt>
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 10>
-Package pdftex.def Info: ../brochure.pdf , page10 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 10>
-Package pdftex.def Info: ../brochure.pdf , page10 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 10>
-Package pdftex.def Info: ../brochure.pdf , page10 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
- [6 <../brochure.pdf>]
-<../brochure.pdf, id=72, page=11, 361.35pt x 505.89pt>
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 11>
-Package pdftex.def Info: ../brochure.pdf , page11 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 11>
-Package pdftex.def Info: ../brochure.pdf , page11 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 11>
-Package pdftex.def Info: ../brochure.pdf , page11 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
- [7 <../brochure.pdf>]
-<../brochure.pdf, id=78, page=12, 361.35pt x 505.89pt>
+<use ../brochure.pdf, page 5>
+Package pdftex.def Info: ../brochure.pdf , page5 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=60, page=12, 397.485pt x 614.295pt>
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 12>
-Package pdftex.def Info: ../brochure.pdf , page12 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page12 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 12>
-Package pdftex.def Info: ../brochure.pdf , page12 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+Package pdftex.def Info: ../brochure.pdf , page12 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
-File: ../brochure.pdf Graphic file (type pdf)
-<use ../brochure.pdf, page 1>
-Package pdftex.def Info: ../brochure.pdf , page1 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
+<use ../brochure.pdf, page 5>
+Package pdftex.def Info: ../brochure.pdf , page5 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
 File: ../brochure.pdf Graphic file (type pdf)
 <use ../brochure.pdf, page 12>
-Package pdftex.def Info: ../brochure.pdf , page12 used on input line 9.
-(pdftex.def)             Requested size: 361.34912pt x 505.88875pt.
- [8 <../brochure.pdf>] (/home/nico/Documents/Wedding-Brochure/generator/booklet.aux) ) 
+Package pdftex.def Info: ../brochure.pdf , page12 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+ [5 <../brochure.pdf> <../brochure.pdf>]
+<../brochure.pdf, id=65, page=6, 397.485pt x 614.295pt>
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 6>
+Package pdftex.def Info: ../brochure.pdf , page6 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 6>
+Package pdftex.def Info: ../brochure.pdf , page6 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=66, page=11, 397.485pt x 614.295pt>
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 11>
+Package pdftex.def Info: ../brochure.pdf , page11 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 11>
+Package pdftex.def Info: ../brochure.pdf , page11 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 6>
+Package pdftex.def Info: ../brochure.pdf , page6 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 11>
+Package pdftex.def Info: ../brochure.pdf , page11 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+ [6 <../brochure.pdf> <../brochure.pdf>]
+<../brochure.pdf, id=76, page=7, 397.485pt x 614.295pt>
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 7>
+Package pdftex.def Info: ../brochure.pdf , page7 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 7>
+Package pdftex.def Info: ../brochure.pdf , page7 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=77, page=10, 397.485pt x 614.295pt>
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 10>
+Package pdftex.def Info: ../brochure.pdf , page10 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 10>
+Package pdftex.def Info: ../brochure.pdf , page10 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 7>
+Package pdftex.def Info: ../brochure.pdf , page7 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 10>
+Package pdftex.def Info: ../brochure.pdf , page10 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+ [7 <../brochure.pdf> <../brochure.pdf>]
+<../brochure.pdf, id=84, page=8, 397.485pt x 614.295pt>
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 8>
+Package pdftex.def Info: ../brochure.pdf , page8 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 8>
+Package pdftex.def Info: ../brochure.pdf , page8 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+<../brochure.pdf, id=85, page=9, 397.485pt x 614.295pt>
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 9>
+Package pdftex.def Info: ../brochure.pdf , page9 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 9>
+Package pdftex.def Info: ../brochure.pdf , page9 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 8>
+Package pdftex.def Info: ../brochure.pdf , page8 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: ../brochure.pdf Graphic file (type pdf)
+<use ../brochure.pdf, page 9>
+Package pdftex.def Info: ../brochure.pdf , page9 used on input line 8.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+ [8 <../brochure.pdf> <../brochure.pdf>] (/home/nico/Documents/Wedding-Brochure/generator/booklet.aux) ) 
 Here is how much of TeX's memory you used:
- 2764 strings out of 494923
- 40896 string characters out of 6180743
+ 2776 strings out of 494923
+ 41296 string characters out of 6180743
  97983 words of memory out of 5000000
- 6059 multiletter control sequences out of 15000+600000
+ 6071 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,22n,54p,322b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,22n,54p,322b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagdo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagko8a.pfb>
-Output written on /home/nico/Documents/Wedding-Brochure/generator/booklet.pdf (8 pages, 5933730 bytes).
+Output written on /home/nico/Documents/Wedding-Brochure/generator/booklet.pdf (8 pages, 6561087 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
